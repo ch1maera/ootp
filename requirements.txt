@@ -1,0 +1,4 @@
+bs4==0.0.1
+pandas==0.25.2
+PyAutoGUI==0.9.48
+numpy==1.17.3
